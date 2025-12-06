@@ -74,9 +74,9 @@ Provides contextual cues: shading, basic greenness, structure. Not used for deep
 6. Optional rule-based text insights per location
 
 ### Drone top, side and front views
-[Drone top](content/topview.png) 
-[Drone side](content/sideview.png)
-[Drone front](content/frontview.png)
+[Drone top](content/topview.jpg) 
+[Drone side](content/sideview.jpg)
+[Drone front](content/frontview.jpg)
 
 ---
 
